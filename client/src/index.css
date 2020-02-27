@@ -75,3 +75,8 @@ body {
   color: red;
   text-align: center;
 }
+
+.update-form {
+  width: 50%;
+  margin: 0 auto;
+}
